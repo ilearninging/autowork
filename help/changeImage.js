@@ -5,4 +5,4 @@
  *
  */
 var image=getClipImage();
-saveToAlbum(changeImage(getClipImage(),0.8);
+saveToAlbum(changeImage(getClipImage(),0.8));

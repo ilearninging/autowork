@@ -1,7 +1,7 @@
 /*
- * @name addEvent2Fantastical
+ * @name add event to Fantastical
  * @description add event to Fantastical
- * @author ilearninging
+ * @author AutoWork
  *
  */
 var url="fantastical2://parse?sentence=";

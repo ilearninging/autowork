@@ -1,7 +1,7 @@
 /*
  * @name screenshot to JPEG
  * @description Change to screenshot to become a lighter JPEG saved at 80% of the original quality
- * @author ilearninging
+ * @author AutoWork
  *
  */
-saveToAlbum(changeImage(getClipImage(),0.8);
+saveToAlbum(changeImage(getClipImage(),0.8));

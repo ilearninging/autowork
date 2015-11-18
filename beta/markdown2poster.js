@@ -1,6 +1,6 @@
 /*
- * @name markdown2poster
- * @description change HTML to Markdown 
+ * @name markdown to poster
+ * @description change HTML to Markdown ,and send the markdown to poster app. 
  * @author ilearninging
  */
 var base = 'notesy://x-callback-url/render-markdown?text=';

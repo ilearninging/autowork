@@ -1,7 +1,7 @@
 /*
- * @name html2markdown
- * @description change HTML to Markdown 
- * @author ilearninging
+ * @name convert html to markdown
+ * @description change HTML string of the first pasteboard item to Markdown string
+ * @author AutoWork
  */
 import_module("markdown");
 var html=getClip();

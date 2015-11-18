@@ -1,7 +1,7 @@
 /*
  * @name Sharing articles with friends through mail
  * @description the task need both Drafts and AutoWork working together to send a mail as html with copied URL
- * @author ilearninging
+ * @author AutoWork
  *
  */
 function callback(text){

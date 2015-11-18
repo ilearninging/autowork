@@ -1,7 +1,7 @@
 /*
- *  @name markdown2Byword
- *  @description Markdown to Byword
- *  @author ilearninging
+ *  @name markdown text to Byword
+ *  @description  change the Markdown string of the first pasteboard item  to html string ,then create text in byword
+ *  @author AutoWork
  */
 import_module("markdown");
 var md=getClip();
