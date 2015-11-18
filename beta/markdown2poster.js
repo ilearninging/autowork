@@ -1,7 +1,7 @@
 /*
  * @name markdown to poster
  * @description change HTML to Markdown ,and send the markdown to poster app. 
- * @author ilearninging
+ * @author AutoWork 
  */
 var base = 'notesy://x-callback-url/render-markdown?text=';
 var url=encodeURI(getClip());
