@@ -1,5 +1,5 @@
 /*
- * @name search run AutoWork script
+ * @name run AutoWork script
  * @description call AutoWork script by script #id
  * @author AutoWork
  *
